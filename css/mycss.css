@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(210, 183, 211);
+}
+
+p{
+    font-size: 30px;
+    color: whitesmoke;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: center;
+}
+
+.box{
+    border: solid whitesmoke;
+    border-width: 5px;
+    width: 500px;
+    margin: 50px;
+    padding: 50px;
+}
+
+.nav{
+    background-color: rgb(212, 161, 241);   
+}
+
+.nav a{
+    display: block;
+    background-color: rgb(236, 203, 243);
+    color: black;
+}
+
+.nav a:hover{
+    background-color: rgb(131, 76, 128);
+    color: whitesmoke;
+}
+
